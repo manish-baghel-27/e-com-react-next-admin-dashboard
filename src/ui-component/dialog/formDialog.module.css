@@ -1,0 +1,11 @@
+.fixedAtBottom{
+    position: sticky; 
+    bottom: 0;
+    background-color: white;
+    border-top: 1px solid #c8c8c8;
+    z-index: 1;
+}
+
+.dialogContentBorderBottomNone{
+    border-bottom: 0;
+}
